@@ -1,0 +1,26 @@
+.botao {
+    width: 300px;
+    display: flex;
+    gap: 1rem;
+    padding: 1rem;
+    margin-left: 15rem; 
+  }
+  
+  button {
+    width: 157px;
+    height: 34px;
+    background-color: #02362e;
+    border-radius: 10px;
+    border: none;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    font-size: 16px;
+    font-weight: bold;
+    color: white;
+    cursor: pointer;
+  }
+
+  button img {
+    filter: brightness(0) invert(1);
+  }

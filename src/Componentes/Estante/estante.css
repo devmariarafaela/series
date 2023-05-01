@@ -1,0 +1,34 @@
+.estante{
+    display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin-left: 4rem;
+}
+
+.titulo{
+    margin-top: 32px;
+    font-size: 32px;
+    text-align: center;
+    color: rgb(0, 0, 0);
+    margin-bottom: 2.5rem;
+}
+
+.container {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr); /* Define 5 colunas com mesmo tamanho */
+  grid-gap: 10px; /* Define o espaçamento entre as imagens */
+  width: fit-content;
+}
+
+
+.image {
+  width: 100px;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 0.3s ease-in-out; /* adiciona animação de transformação com duração de 0.3s com aceleração e desaceleração */
+}
+
+.image:hover {
+  transform: scale(1.1); /* aumenta a escala da imagem em 10% */
+}
