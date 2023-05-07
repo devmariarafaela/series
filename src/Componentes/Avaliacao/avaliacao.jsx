@@ -1,8 +1,7 @@
 import React from "react";
 import "./avaliacao.css";
-import imagem1 from 'C:\\Users\\Maria\\Desktop\\BEES\\series\\src\\Componentes\\Imagens\\imagem1.jpg';
-import imagem2 from 'C:\\Users\\Maria\\Desktop\\BEES\\series\\src\\Componentes\\Imagens\\imagem2.jpg';
-
+import imagem1 from '../Imagens/imagem1.jpg';
+import imagem2 from '../Imagens/imagem2.jpg';
 
 function Avaliacao (){
     return(
@@ -30,3 +29,4 @@ function Avaliacao (){
     )    
 }
 export default Avaliacao;
+

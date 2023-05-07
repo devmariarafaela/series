@@ -1,15 +1,15 @@
 import React from "react";
 import "./estante.css";
-import imagem1 from 'C:\\Users\\Maria\\Desktop\\BEES\\series\\src\\Componentes\\Imagens\\imagem1.jpg';
-import imagem2 from 'C:\\Users\\Maria\\Desktop\\BEES\\series\\src\\Componentes\\Imagens\\imagem2.jpg';
-import imagem3 from 'C:\\Users\\Maria\\Desktop\\BEES\\series\\src\\Componentes\\Imagens\\imagem3.jpg';
-import imagem4 from 'C:\\Users\\Maria\\Desktop\\BEES\\series\\src\\Componentes\\Imagens\\imagem4.jpg';
-import imagem5 from 'C:\\Users\\Maria\\Desktop\\BEES\\series\\src\\Componentes\\Imagens\\imagem5.jpg';
-import imagem6 from 'C:\\Users\\Maria\\Desktop\\BEES\\series\\src\\Componentes\\Imagens\\imagem6.jpg';
-import imagem7 from 'C:\\Users\\Maria\\Desktop\\BEES\\series\\src\\Componentes\\Imagens\\imagem7.jpg';
-import imagem8 from 'C:\\Users\\Maria\\Desktop\\BEES\\series\\src\\Componentes\\Imagens\\imagem8.jpg';
-import imagem9 from 'C:\\Users\\Maria\\Desktop\\BEES\\series\\src\\Componentes\\Imagens\\imagem9.jpg';
-import imagem10 from 'C:\\Users\\Maria\\Desktop\\BEES\\series\\src\\Componentes\\Imagens\\imagem10.jpg';
+import imagem1 from '../Imagens/imagem1.jpg';
+import imagem2 from '../Imagens/imagem2.jpg';
+import imagem3 from '../Imagens/imagem3.jpg';
+import imagem4 from '../Imagens/imagem4.jpg';
+import imagem5 from '../Imagens/imagem5.jpg';
+import imagem6 from '../Imagens/imagem6.jpg';
+import imagem7 from '../Imagens/imagem7.jpg';
+import imagem8 from '../Imagens/imagem8.jpg';
+import imagem9 from '../Imagens/imagem9.jpg';
+import imagem10 from '../Imagens/imagem10.jpg';
 
 
 

@@ -6,7 +6,7 @@
     padding-top: 0.8rem;
     padding-left: 3rem;
     gap: 3rem;
-  
+
 }
 .imagem-perfil{
     align-content: center;
@@ -19,6 +19,7 @@
  color: white;
  flex-direction: column;
  gap: 1rem;
+
 }
 
 .assistido {
@@ -26,13 +27,16 @@
     display: flex;
     gap: 3rem;
     text-align: center;
+
 }
 
 .assistido p {
     font-size: 36px;
+
   }
   
   .assistido p:first-child {
     font-size: 36px;
+    
   }
 
